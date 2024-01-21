@@ -98,10 +98,12 @@ experiences:
     info:
       - role: Bilişim Uzmanı
         time: 11/2022 - 11/2023
-        company: Türk Silahlı Kuvvetleri / Milli Savunma Bakanlığı, Askeralma Gn.Md., Çankaya/Ankara
+        company: Türk Silahlı Kuvvetleri / Milli Savunma Bakanlığı, Çankaya/Ankara
         details: |
-          Veri ve Proje Yönetim Daire Başkanlığı / Veri Yönetim Şube Mdlüğü.
-            - Yedek Subay
+        - Askeralma Gn.Md.
+          Veri ve Proje Yönetim Daire Başkanlığı
+          Veri Yönetim Şube Mdlüğü.
+          Yedek Subay
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
