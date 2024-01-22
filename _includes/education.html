@@ -9,7 +9,7 @@
 
     {% for graduation in education.info %}
     <div class="item">
-      <h4 class="degree">{{ graduation.bolum }}, {{ graduation.degree }}</h4>
+      <h4 class="degree">{{ education.info.bolum }}, {{ education.info.degree }}</h4>
       <h5 class="meta">{{ graduation.fakulte }}, {{ graduation.university }}, {{ graduation.location }}</h5>
       <h5 class="meta">{{ graduation.ortalama }}</h5>
       <div class="time">{{ graduation.time }}</div>
