@@ -185,6 +185,24 @@ publications:
     title: Referanslar
     intro:
     papers:
+      - title: Arif TULUK
+        link: "#"
+        unvan: Dr. Muhabere Albay
+        kurum: Milli Savunma Bakanlığı
+        mail: arif.tuluk@msb.gov.tr
+        telefon: +90 5xx xxx xx xx
+      - title: Hünkar HACITALİPOĞLU
+        link: "#"
+        unvan: Genel Müdür Yrd.
+        kurum: Rixos Premium Bodrum
+        mail: hunkar.hacitalipoglu@rixos.com
+        telefon: +90 xxx xx xx
+      - title: Utku KÖSE
+        link: "#"
+        unvan: Dr.Öğretim Görevlisi
+        kurum: Süleyman Demirel Üniversitesi
+        mail: utkukose@sdu.edu.tr
+        telefon: +90 246 211 1391
       - title: Murat TOPALOĞLU
         link: "#"
         unvan: Dr.Öğretim Görevlisi
