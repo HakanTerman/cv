@@ -68,30 +68,48 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: Eğitim
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - bolum: Adalet
+        degree: Önlisans
+        university: Uşak Üniversitesi
+        fakulte: Adalet Meslek Yüksekokulu
+        time: 08/2023 – Bugün
+        location: Uşak
+        ortalama:
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - bolum: Bilgisayar Teknolojisi ve Bilişim Sistemleri
+        degree: Lisans
+        university: Trakya Üniversitesi
+        fakulte: Keşan Yusuf Çapraz Uygulamalı Bilimler Yüksekokulu
+        time: 09/2017 – 07/2021
+        location: Keşan/Edirne
+        ortalama: "2.98/4"
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - bolum: Yönetim Bilişim Sistemleri
+        degree: Lisans
+        university: Anadolu Üniversitesi
+        fakulte: Açıköğretim Fakültesi
+        time: 09/2017 – 07/2021
+        location: Eskişehir
+        ortalama: "2.98/4"
+        details: |
+      - bolum:  Bilişim Sistemleri Mühendisliği
+        degree: Lisans
+        university: Yakın Doğu Üniversitesi
+        fakulte: Mühendislik Fakültesi,
+        time: 11/2016 - 02/2017
+        location: Lefkoşa/KKTC
+        ortalama: Terk
+        details: |
+      - bolum: Bilgisayar Programcılığı
+        degree: Lisans
+        university: Uşak Üniversitesi
+        fakulte: Karahallı Meslek Yüksekokulu
+        time: 10/2014 - 06/2016
+        location: Karahallı/Uşak
+        ortalama: "3.38/4"
+        details: |
 
 experiences:
     title: Deneyim
