@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Hakan TERMAN
     tagline: Bilişim Uzmanı
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: hakan.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hakanterman@gmail.com
@@ -19,7 +19,7 @@ sidebar:
     citizenship: Türkiye Cumhuriyeti
     website: hakanterman.com #do not add http://
     linkedin: hakanterman
-    xing: 
+    xing:
     github: hakanterman
     telegram: hakanterman # add your nickname without '@' sign
     gitlab:
@@ -34,10 +34,10 @@ sidebar:
       title: Dil
       info:
         - idiom: Türkçe
-          level: Native
+          level: Ana Dil
 
         - idiom: İngilizce
-          level: Professional
+          level: Başlangıç
 
     interests:
       title: Hobiler
